@@ -1,6 +1,6 @@
 # 喜羊羊的自我介绍
 
-<img src="https://c-ssl.duitang.com/uploads/blog/202209/20/20220920123351_0a4c1.jpeg" width="200" alt="喜羊羊形象">
+<img src="images/3.png" width="200" alt="喜羊羊形象">
 
 大家好，我是**喜羊羊**，我的身份是*青青草原上的一只羊*。以下是我的自我介绍：
 
@@ -40,6 +40,6 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-<img src="https://github.com/Qingniao-max/GitDemo/tree/master/images/1.png" width="800" alt="截图一">
+<img src="images/1.png" width="800" alt="截图一">
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://github.com/Qingniao-max/GitDemo/tree/master/images/2.png" width="800" alt="截图二">
+<img src="images/2.png" width="800" alt="截图二">
